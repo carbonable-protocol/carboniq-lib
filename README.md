@@ -1,4 +1,4 @@
-# carboniq-lib
+# CarbonIQ library
 
 <div align="center">
   <h1>carboniq-lib</h1>
